@@ -5,7 +5,7 @@
         id          = "com.ndegwer.click"
         versionCode = "1"
         version     = "1.0.0" >
-    <name>My App</name>
+    <name>Click App</name>
     <description>This is an app to test the Click Solutions Site</description>
     <author href="ndegwer.byethost5.com" email="ndegwa22@gmail.com">
         Martin Ndegwa
